@@ -1,0 +1,82 @@
+[2025-12-26 06:33:42] Failed opening required '/home/u958859890/domains/prestamolider.com/public_html/system/correos/providers/ExternalProvider.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php')
+[2025-12-26 06:36:05] Failed opening required '/home/u958859890/domains/prestamolider.com/public_html/system/correos/providers/ExternalProvider.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php')
+[2025-12-26 06:42:23] Failed opening required '/home/u958859890/domains/prestamolider.com/public_html/system/correos/providers/ExternalProvider.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php')
+[2025-12-26 06:48:21] ERROR SMTP: SMTP Error: Could not connect to SMTP host.
+[2025-12-26 06:51:47] ERROR SMTP: SMTP Error: Could not connect to SMTP host.
+[2025-12-26 21:08:45] ERROR SMTP: SMTP Error: Could not connect to SMTP host.
+[2025-12-26 21:08:45] solicitudes_estado.php: send() devolvió false (docs_aprobados)
+[2025-12-26 21:31:10] ✓ Configuración cargada correctamente
+[2025-12-26 21:31:10] ✓ Plantillas cargadas correctamente (11 plantillas)
+[2025-12-26 21:31:17] ✓ Configuración cargada correctamente
+[2025-12-26 21:31:17] ✓ Plantillas cargadas correctamente (11 plantillas)
+[2025-12-26 21:34:01] ✓ Configuración cargada correctamente
+[2025-12-26 21:34:01] ✓ Plantillas cargadas correctamente (11 plantillas)
+[2025-12-26 21:34:13] ✓ Configuración cargada correctamente
+[2025-12-26 21:34:13] ✓ Plantillas cargadas correctamente (11 plantillas)
+[2025-12-26 21:34:18] ✓ Configuración cargada correctamente
+[2025-12-26 21:34:18] ✓ Plantillas cargadas correctamente (11 plantillas)
+[2025-12-26 21:35:02] ✓ Configuración cargada correctamente
+[2025-12-26 21:35:02] ✓ Plantillas cargadas correctamente (11 plantillas)
+[2025-12-26 21:35:02] → Intentando enviar email a Thomec86@gmail.com con plantilla 'docs_aprobados'
+[2025-12-26 21:35:03] [ExternalProvider] ✓ Email enviado a Thomec86@gmail.com | Asunto: Documentación aprobada - Préstamo Líder
+[2025-12-26 21:35:03] ✓ Email enviado exitosamente a Thomec86@gmail.com
+[2025-12-26 21:38:55] ✓ Configuración cargada correctamente
+[2025-12-26 21:38:55] ✓ Plantillas cargadas correctamente (11 plantillas)
+[2025-12-26 21:40:27] ✓ Configuración cargada correctamente
+[2025-12-26 21:40:27] ✓ Plantillas cargadas correctamente (11 plantillas)
+[2025-12-26 21:40:27] → Intentando enviar email a Thomec86@gmail.com con plantilla 'docs_aprobados'
+[2025-12-26 21:40:29] [ExternalProvider] ✓ Email enviado a Thomec86@gmail.com | Asunto: Documentación aprobada - Préstamo Líder
+[2025-12-26 21:40:29] ✓ Email enviado exitosamente a Thomec86@gmail.com
+[2025-12-26 21:44:56] ✓ Configuración cargada correctamente
+[2025-12-26 21:44:56] ✓ Plantillas cargadas correctamente (8 plantillas)
+[2025-12-26 21:45:12] ✓ Configuración cargada correctamente
+[2025-12-26 21:45:12] ✓ Plantillas cargadas correctamente (8 plantillas)
+[2025-12-26 21:45:12] → Intentando enviar email a Thomec86@gmail.com con plantilla 'docs_rechazados'
+[2025-12-26 21:45:13] [ExternalProvider] ✓ Email enviado a Thomec86@gmail.com | Asunto: Documentación rechazada - Préstamo Líder
+[2025-12-26 21:45:13] ✓ Email enviado exitosamente a Thomec86@gmail.com
+[2025-12-26 22:02:07] ✓ Configuración cargada correctamente
+[2025-12-26 22:02:07] ✓ Plantillas cargadas correctamente (8 plantillas)
+[2025-12-26 22:02:07] → Intentando enviar email a azuleinetwork@gmail.com con plantilla 'registro'
+[2025-12-26 22:02:08] [ExternalProvider] ✓ Email enviado a azuleinetwork@gmail.com | Asunto: Bienvenido/a a Préstamo Líder
+[2025-12-26 22:02:08] ✓ Email enviado exitosamente a azuleinetwork@gmail.com
+[2025-12-27 17:59:06] ✓ Configuración cargada correctamente
+[2025-12-27 17:59:06] ✓ Plantillas cargadas correctamente (8 plantillas)
+[2025-12-27 17:59:06] → Intentando enviar email a Thomec86@gmail.com con plantilla 'docs_aprobados'
+[2025-12-27 17:59:09] [ExternalProvider] ✓ Email enviado a Thomec86@gmail.com | Asunto: Documentación aprobada - Préstamo Líder
+[2025-12-27 17:59:09] ✓ Email enviado exitosamente a Thomec86@gmail.com
+[2025-12-28 17:10:35] ✓ Configuración cargada correctamente
+[2025-12-28 17:10:35] ✓ Plantillas cargadas correctamente (8 plantillas)
+[2025-12-28 17:10:35] → Intentando enviar email a vilmaefonceca@hotmail.com con plantilla 'recupero_password'
+[2025-12-28 17:10:36] [ExternalProvider] ✓ Email enviado a vilmaefonceca@hotmail.com | Asunto: Recuperar contraseña - Préstamo Líder
+[2025-12-28 17:10:36] ✓ Email enviado exitosamente a vilmaefonceca@hotmail.com
+[2026-01-04 16:07:22] ✓ Configuración cargada correctamente
+[2026-01-04 16:07:22] ✓ Plantillas cargadas correctamente (8 plantillas)
+[2026-01-04 16:07:22] → Intentando enviar email a vilmaefonceca@hotmail.com con plantilla 'registro'
+[2026-01-04 16:07:24] [ExternalProvider] ✓ Email enviado a vilmaefonceca@hotmail.com | Asunto: Bienvenido/a a Préstamo Líder
+[2026-01-04 16:07:24] ✓ Email enviado exitosamente a vilmaefonceca@hotmail.com
+[2026-01-04 16:12:51] ✓ Configuración cargada correctamente
+[2026-01-04 16:12:51] ✓ Plantillas cargadas correctamente (8 plantillas)
+[2026-01-04 16:12:51] → Intentando enviar email a vilmaefonceca@hotmail.com con plantilla 'docs_aprobados'
+[2026-01-04 16:12:52] [ExternalProvider] ✓ Email enviado a vilmaefonceca@hotmail.com | Asunto: Documentación aprobada - Préstamo Líder
+[2026-01-04 16:12:52] ✓ Email enviado exitosamente a vilmaefonceca@hotmail.com
+[2026-01-05 14:05:34] ✓ Configuración cargada correctamente
+[2026-01-05 14:05:34] ✓ Plantillas cargadas correctamente (8 plantillas)
+[2026-01-05 14:05:34] → Intentando enviar email a user58853749_1767357687@temp.com con plantilla 'docs_rechazados'
+[2026-01-05 14:05:35] [ExternalProvider] ✗ Error PHPMailer: SMTP Error: The following recipients failed: user58853749_1767357687@temp.com: The mail server could not deliver mail to user58853749_1767357687@temp.com.
+The account or domain may not exist, they may be blacklisted, or missing
+the proper dns entries.
+
+[2026-01-05 14:05:35] ✗ Falló el envío a user58853749_1767357687@temp.com
+[2026-01-05 14:22:29] ✓ Configuración cargada correctamente
+[2026-01-05 14:22:29] ✓ Plantillas cargadas correctamente (8 plantillas)
+[2026-01-05 14:22:29] → Intentando enviar email a Thomec86@gmail.com con plantilla 'docs_rechazados'
+[2026-01-05 14:22:32] [ExternalProvider] ✓ Email enviado a Thomec86@gmail.com | Asunto: Documentación rechazada - Préstamo Líder
+[2026-01-05 14:22:32] ✓ Email enviado exitosamente a Thomec86@gmail.com
+[2026-01-05 14:57:49] ✓ Configuración cargada correctamente
+[2026-01-05 14:57:49] ✓ Plantillas cargadas correctamente (8 plantillas)
+[2026-01-05 14:57:49] → Intentando enviar email a Thomec86@gmail.com con plantilla 'docs_aprobados'
+[2026-01-05 14:57:50] [ExternalProvider] ✓ Email enviado a Thomec86@gmail.com | Asunto: Documentación aprobada - Préstamo Líder
+[2026-01-05 14:57:50] ✓ Email enviado exitosamente a Thomec86@gmail.com
+[2026-01-07 13:55:49] ✓ Configuración cargada correctamente
+[2026-01-07 13:55:49] ✓ Plantillas cargadas correctamente (8 plantillas)
+[2026-01-07 13:55:49] ERROR: Plantilla inexistente: registro_validacion
