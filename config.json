@@ -1,0 +1,174 @@
+{
+    "hero": {
+        "title": "Tu préstamo en 24 horas.",
+        "subtitle": "Hasta $4.000.000 con la mejor tasa del mercado",
+        "cta": "Solicitar ahora"
+    },
+    "benefits": [
+        {
+            "icon": "shield",
+            "title": "100% Seguro",
+            "description": "Oficinas propias y transparencia total"
+        },
+        {
+            "icon": "headphones",
+            "title": "Atención Personalizada",
+            "description": "Personas reales que te ayudan"
+        },
+        {
+            "icon": "trending",
+            "title": "Sin Anticipos",
+            "description": "No pedimos pagos adelantados"
+        },
+        {
+            "icon": "award",
+            "title": "Mejor Tasa",
+            "description": "Desde 100% TNA según tu perfil"
+        }
+    ],
+    "products": [
+        {
+            "title": "Empleados Nacionales",
+            "maxAmount": "4.000.000",
+            "minAge": "1 mes",
+            "tna": "100%",
+            "features": [
+                "Hasta $4M",
+                "24-36 cuotas",
+                "Por recibo"
+            ]
+        },
+        {
+            "title": "Empleados Provinciales",
+            "maxAmount": "1.000.000",
+            "minAge": "1 mes",
+            "tna": "165%",
+            "features": [
+                "Hasta $1M",
+                "12-36 cuotas",
+                "Rápido"
+            ]
+        },
+        {
+            "title": "Empleados Privados",
+            "maxAmount": "120.000",
+            "minAge": "12 meses",
+            "tna": "180%",
+            "features": [
+                "Hasta $120K",
+                "12 cuotas",
+                "Con Veraz"
+            ]
+        },
+        {
+            "title": "Jubilados ANSES",
+            "maxAmount": "90.000",
+            "minAge": "1 mes",
+            "tna": "195%",
+            "features": [
+                "Hasta $90K",
+                "6-11 cuotas",
+                "1er cobro"
+            ]
+        }
+    ],
+    "contact": {
+        "address": "Córdoba 2454 Piso 6 Of. B, Posadas, Misiones",
+        "phone": "0376-5431525",
+        "whatsapp": "0376-4739033",
+        "email": "info@prestamolider.com",
+        "hours": "Lun-Vie 9-17hs | Sáb 7-15hs"
+    },
+    "colors": {
+        "primary": "#2563eb",
+        "secondary": "#16a34a",
+        "accent": "#f59e0b"
+    },
+    "faq": [
+        {
+            "pregunta": "¿Cuál es la tasa de interés?",
+            "respuesta": "Tenemos varias líneas de crédito y las tasas varían desde el 142,10% al 282,09%."
+        },
+        {
+            "pregunta": "¿Hasta cuánto prestan?",
+            "respuesta": "Los montos máximos son: • $4.000.000 a empleados públicos nacionales por decreto 14/12 (descuento por recibo). • $150.000 por CBU a empleados públicos nacionales. • $1.000.000 a empleados públicos provinciales de Misiones. • $100.000 a empleados públicos provinciales y jubilados de Salta. • $120.000 para empleados privados. • $90.000 para jubilados y pensionados."
+        },
+        {
+            "pregunta": "¿Hacen préstamos online?",
+            "respuesta": "Sí, pero primero debemos confirmar si calificás para una línea de crédito que haga ese tipo de operación."
+        },
+        {
+            "pregunta": "¿Debo terminar de pagar mi préstamo para solicitar otro?",
+            "respuesta": "No necesariamente. Podés solicitar un nuevo crédito si calificás; se analiza sin compromiso."
+        },
+        {
+            "pregunta": "¿Tienen ejemplos de montos y cuotas?",
+            "respuesta": "Ejemplos: Nacionales 14/12: $1.000.000 en 24 cuotas de $105.564,68 o 36 cuotas de $97.037,15. Provinciales: $1.000.000 en 12 cuotas de $205.000 o 36 cuotas de $165.000. Jubilados ANSES: cada $10.000 paga en 6 cuotas $3.201,03 o 11 de $2.526,32."
+        },
+        {
+            "pregunta": "¿Cómo se pagan las cuotas?",
+            "respuesta": "Formas de pago: Rapipago o Pago Fácil, débito automático, descuento por recibo (si corresponde) o tarjeta de débito."
+        },
+        {
+            "pregunta": "¿Las cuotas son fijas?",
+            "respuesta": "Sí, las cuotas son fijas. Sólo puede variar el importe por servicios o cuota social."
+        },
+        {
+            "pregunta": "¿Puedo hacer una cancelación anticipada?",
+            "respuesta": "Sí, podés pedir una caída de cuotas y te informarán el monto exacto."
+        },
+        {
+            "pregunta": "¿En cuánto tiempo depositan?",
+            "respuesta": "Dependiendo de la línea de crédito, puede ser en el día o entre 24 y 72 horas."
+        },
+        {
+            "pregunta": "¿Cómo es el proceso para acceder al préstamo?",
+            "respuesta": "Enviás los requisitos, se analiza tu cupo disponible, firmás y se deposita."
+        },
+        {
+            "pregunta": "¿Cómo hago para renovar mi préstamo?",
+            "respuesta": "Debés comunicarte con tu asesor, enviar los requisitos y él gestionará la renovación."
+        },
+        {
+            "pregunta": "¿Cómo saber si califico?",
+            "respuesta": "Se solicita recibo de sueldo, se hacen algunas preguntas y si es necesario, movimientos bancarios."
+        },
+        {
+            "pregunta": "¿Por qué piden movimientos bancarios?",
+            "respuesta": "Se necesita para evaluar tu disponibilidad y calcular correctamente el crédito."
+        },
+        {
+            "pregunta": "¿Para qué necesitan la tarjeta de débito?",
+            "respuesta": "Es un medio de cobro para las cuotas."
+        },
+        {
+            "pregunta": "¿Trabajan con Veraz?",
+            "respuesta": "Sí, siempre que no tengas informes negativos con tu banco. Se analizan los requisitos."
+        },
+        {
+            "pregunta": "¿Cómo sé que no son estafadores?",
+            "respuesta": "Cuentan con oficinas, atención al público y presencia en redes, con opiniones verificadas."
+        },
+        {
+            "pregunta": "¿Dónde están sus oficinas?",
+            "respuesta": "Casa central: San Martín 1519, Posadas Misiones. Representantes en todo el país."
+        },
+        {
+            "pregunta": "¿Cómo solicito mi estado de cuenta?",
+            "respuesta": "Comunicándote con tu asesor, WhatsApp o redes sociales."
+        },
+        {
+            "pregunta": "¿Qué pasa si no puedo pagar a tiempo?",
+            "respuesta": "Debés comunicarte para hacer un acuerdo y evitar inconvenientes."
+        }
+    ],
+    "smtp": {
+        "host": "kv7.toservers.com",
+        "port": 465,
+        "username": "sistema@prestamolider.com",
+        "password": "CapPVk-%CNGc",
+        "encryption": "ssl",
+        "from_email": "sistema@prestamolider.com",
+        "from_name": "Sistema - PrestamoLider"
+    }
+}
