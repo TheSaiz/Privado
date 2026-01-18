@@ -1,0 +1,115 @@
+2025-12-20 15:59:40 - DATOS OBTENIDOS:
+Array
+(
+    [chat_id] => 769
+    [cuil] => 
+    [nombre] => 
+    [email] => gomez@hotmail.com
+    [areacode] => 376
+    [phone] => 4125555
+    [banco] => 22
+    [situacion_laboral] => 
+)
+
+2025-12-20 15:59:40 - ERROR: Faltan datos obligatorios
+2025-12-20 15:59:51 - DATOS OBTENIDOS:
+Array
+(
+    [chat_id] => 769
+    [cuil] => 
+    [nombre] => 
+    [email] => gomez@hotmail.com
+    [areacode] => 376
+    [phone] => 4125555
+    [banco] => 22
+    [situacion_laboral] => 
+)
+
+2025-12-20 15:59:51 - ERROR: Faltan datos obligatorios
+2025-12-24 14:40:03 - DATOS OBTENIDOS:
+Array
+(
+    [chat_id] => 1151
+    [cuil] => 23495952614
+    [nombre] => SAYAGO ANA CLARA
+    [email] => Decimeanuu@hotmail.com
+    [areacode] => 11
+    [phone] => 54566028
+    [banco] => 11
+    [situacion_laboral] => COBRA_SUAF
+)
+
+2025-12-24 14:40:03 - PARAMETROS SOAP:
+Array
+(
+    [D_usucod] => 998
+    [D_name] => SAYAGO ANA CLARA
+    [D_lastname] => 
+    [D_email] => Decimeanuu@hotmail.com
+    [D_dni] => 23495952614
+    [D_areacode] => 11
+    [D_phone] => 54566028
+    [D_bank] => 11
+    [D_typeofincome] => COBRA_SUAF
+    [D_amount] => 0
+    [D_amountdestination] => 
+    [D_urgency] => quietly
+    [D_saleschannel] => Web
+    [D_version] => plider
+    [D_campaign] => plider
+    [D_provincia] => Ciudad Autónoma de Buenos Aires y Gran Buenos Aires
+    [D_parametros] => 
+)
+
+2025-12-24 14:40:04 - RESPUESTA SOAP:
+stdClass Object
+(
+    [Respuesta] => stdClass Object
+        (
+            [RiePedID] => 151528
+            [P_OK] => S
+            [P_Msj] => CARGA REPETIDA
+            [P_Ren] => 0
+            [P_Disp] => 99999
+            [P_Rpta] => [S][12]
+            [P_CliSexo] => F
+            [P_CliCUIT] => 23-49595261-4
+            [P_CliCliFecNac] => 
+            [P_BloqHasta] => 
+            [P_EsCliente] => N
+            [P_PrestamosVigentes] => 0
+            [P_Ape] => SAYAGO
+            [P_Nom] => ANA CLARA
+            [P_ECUIT] => 
+            [P_ERZ] => 
+            [P_Parm] => 
+            [P_DomFiscal] => 
+            [P_DomAlter] => 
+            [P_HaberBruto] => 0
+            [P_HaberNeto] => 0
+            [P_Actividad] => 0
+            [P_EstCiv] => 
+            [P_RelTrCod] => 0
+            [P_OfertaMaxima] => 0
+            [P_HaberOfertar] => 0
+            [R] => stdClass Object
+                (
+                )
+
+            [I] => stdClass Object
+                (
+                )
+
+            [V] => stdClass Object
+                (
+                )
+
+        )
+
+)
+
+
+2025-12-24 14:40:04 - ÉXITO: CARGA REPETIDA
+
+2025-12-24 14:40:04 - ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'enviado_crm' in 'SET'
+

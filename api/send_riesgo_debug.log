@@ -1,0 +1,40 @@
+Array
+(
+    [timestamp] => 2025-12-18 14:16:25
+    [method] => POST
+    [post_data] => Array
+        (
+            [chat_id] => 476
+            [question_id] => 8
+            [answer] => thomec85@gmail.com
+            [option_id] => 0
+            [confirmado] => 1
+        )
+
+    [raw_input] => 
+)
+
+
+DATOS PROCESADOS:
+Array
+(
+    [cuil] => 
+    [name] => 
+    [email] => 
+    [areacode] => 
+    [phone] => 
+    [bank] => 
+    [auh] => 
+    [suaf] => 
+    [jubilado] => 
+    [relacion] => 
+    [mono] => 
+    [negro] => 
+)
+
+
+OPCION: 
+LOCALIDAD: Localidad desconocida
+
+ERROR: Faltan datos obligatorios. CUIL: , Name: , Email: 
+

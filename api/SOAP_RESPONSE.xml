@@ -1,0 +1,38 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SOAP-ENV:Body>
+		<RiesgoHook1_plider_WS.ExecuteResponse xmlns="GX">
+<Respuesta xmlns="GX">
+	<RiePedID>150090</RiePedID>
+	<P_OK>S</P_OK>
+	<P_Msj>CARGA REPETIDA</P_Msj>
+	<P_Ren>0</P_Ren>
+	<P_Disp>99999.00</P_Disp>
+	<P_Rpta>[S][12]</P_Rpta>
+	<P_CliSexo>F</P_CliSexo>
+	<P_CliCUIT>27-32781487-2</P_CliCUIT>
+	<P_CliCliFecNac p2:nil="true" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance" />
+	<P_BloqHasta p2:nil="true" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance" />
+	<P_EsCliente>N</P_EsCliente>
+	<P_PrestamosVigentes>0</P_PrestamosVigentes>
+	<P_Ape>SOLOAGA</P_Ape>
+	<P_Nom>ERICA ANALIA</P_Nom>
+	<P_ECUIT />
+	<P_ERZ />
+	<P_Parm />
+	<P_DomFiscal />
+	<P_DomAlter />
+	<P_HaberBruto>0</P_HaberBruto>
+	<P_HaberNeto>0</P_HaberNeto>
+	<P_Actividad>0</P_Actividad>
+	<P_EstCiv />
+	<P_RelTrCod>0</P_RelTrCod>
+	<P_OfertaMaxima>0</P_OfertaMaxima>
+	<P_HaberOfertar>0</P_HaberOfertar>
+	<R />
+	<I />
+	<V />
+</Respuesta>
+		</RiesgoHook1_plider_WS.ExecuteResponse>
+	</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
