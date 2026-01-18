@@ -1,0 +1,148 @@
+[2025-12-26 21:35:02] ========== NUEVA PETICIÓN ==========
+[2025-12-26 21:35:02] ✓ Usuario autenticado: ID=2, Rol=asesor
+[2025-12-26 21:35:02] Input recibido: {"chat_id":null,"cliente_id":815,"estado":"aprobado"}
+[2025-12-26 21:35:02] Datos parseados - Estado: aprobado, Cliente ID: 815, Chat ID: 0
+[2025-12-26 21:35:02] ✓ Cliente ID final: 815
+[2025-12-26 21:35:02] Actualizando estado a 'aprobado' para cliente_id=815
+[2025-12-26 21:35:02] Filas afectadas: 1
+[2025-12-26 21:35:02] ✓ Estado actualizado correctamente en BD
+[2025-12-26 21:35:02] Iniciando proceso de envío de email...
+[2025-12-26 21:35:02] Verificando EmailDispatcher en: /home/u958859890/domains/prestamolider.com/public_html/system/api/../correos/EmailDispatcher.php
+[2025-12-26 21:35:02] ✓ EmailDispatcher encontrado, cargando...
+[2025-12-26 21:35:02] Obteniendo datos del cliente...
+[2025-12-26 21:35:02] ✓ Datos del cliente obtenidos: CANO ESPINDOLA ALVARO THOMAS <Thomec86@gmail.com>
+[2025-12-26 21:35:02] Creando instancia de EmailDispatcher...
+[2025-12-26 21:35:02] ✓ EmailDispatcher instanciado
+[2025-12-26 21:35:02] Enviando email de documentos aprobados...
+[2025-12-26 21:35:03] ✓ ✓ ✓ EMAIL ENVIADO EXITOSAMENTE ✓ ✓ ✓
+[2025-12-26 21:35:03] ========== RESPUESTA EXITOSA ==========
+[2025-12-26 21:40:27] ========== NUEVA PETICIÓN ==========
+[2025-12-26 21:40:27] ✓ Usuario autenticado: ID=15, Rol=admin
+[2025-12-26 21:40:27] Input recibido: {"chat_id":null,"cliente_id":815,"estado":"aprobado"}
+[2025-12-26 21:40:27] Datos parseados - Estado: aprobado, Cliente ID: 815, Chat ID: 0
+[2025-12-26 21:40:27] ✓ Cliente ID final: 815
+[2025-12-26 21:40:27] Actualizando estado a 'aprobado' para cliente_id=815
+[2025-12-26 21:40:27] Filas afectadas: 1
+[2025-12-26 21:40:27] ✓ Estado actualizado correctamente en BD
+[2025-12-26 21:40:27] Iniciando proceso de envío de email...
+[2025-12-26 21:40:27] Verificando EmailDispatcher en: /home/u958859890/domains/prestamolider.com/public_html/system/api/../correos/EmailDispatcher.php
+[2025-12-26 21:40:27] ✓ EmailDispatcher encontrado, cargando...
+[2025-12-26 21:40:27] Obteniendo datos del cliente...
+[2025-12-26 21:40:27] ✓ Datos del cliente obtenidos: CANO ESPINDOLA ALVARO THOMAS <Thomec86@gmail.com>
+[2025-12-26 21:40:27] Creando instancia de EmailDispatcher...
+[2025-12-26 21:40:27] ✓ EmailDispatcher instanciado
+[2025-12-26 21:40:27] Enviando email de documentos aprobados...
+[2025-12-26 21:40:29] ✓ ✓ ✓ EMAIL ENVIADO EXITOSAMENTE ✓ ✓ ✓
+[2025-12-26 21:40:29] ========== RESPUESTA EXITOSA ==========
+[2025-12-26 21:45:12] ========== NUEVA PETICIÓN ==========
+[2025-12-26 21:45:12] ✓ Usuario autenticado: ID=15, Rol=admin
+[2025-12-26 21:45:12] Input recibido: {"chat_id":null,"cliente_id":815,"estado":"rechazado"}
+[2025-12-26 21:45:12] Datos parseados - Estado: rechazado, Cliente ID: 815, Chat ID: 0
+[2025-12-26 21:45:12] ✓ Cliente ID final: 815
+[2025-12-26 21:45:12] Actualizando estado a 'rechazado' para cliente_id=815
+[2025-12-26 21:45:12] Filas afectadas: 1
+[2025-12-26 21:45:12] ✓ Estado actualizado correctamente en BD
+[2025-12-26 21:45:12] Iniciando proceso de envío de email...
+[2025-12-26 21:45:12] Verificando EmailDispatcher en: /home/u958859890/domains/prestamolider.com/public_html/system/api/../correos/EmailDispatcher.php
+[2025-12-26 21:45:12] ✓ EmailDispatcher encontrado, cargando...
+[2025-12-26 21:45:12] Obteniendo datos del cliente...
+[2025-12-26 21:45:12] ✓ Datos del cliente obtenidos: CANO ESPINDOLA ALVARO THOMAS <Thomec86@gmail.com>
+[2025-12-26 21:45:12] Creando instancia de EmailDispatcher...
+[2025-12-26 21:45:12] ✓ EmailDispatcher instanciado
+[2025-12-26 21:45:12] Enviando email de documentos rechazados...
+[2025-12-26 21:45:13] ✓ ✓ ✓ EMAIL ENVIADO EXITOSAMENTE ✓ ✓ ✓
+[2025-12-26 21:45:13] ========== RESPUESTA EXITOSA ==========
+[2025-12-27 17:59:06] ========== NUEVA PETICIÓN ==========
+[2025-12-27 17:59:06] ✓ Usuario autenticado: ID=15, Rol=admin
+[2025-12-27 17:59:06] Input recibido: {"chat_id":null,"cliente_id":815,"estado":"aprobado"}
+[2025-12-27 17:59:06] Datos parseados - Estado: aprobado, Cliente ID: 815, Chat ID: 0
+[2025-12-27 17:59:06] ✓ Cliente ID final: 815
+[2025-12-27 17:59:06] Actualizando estado a 'aprobado' para cliente_id=815
+[2025-12-27 17:59:06] Filas afectadas: 1
+[2025-12-27 17:59:06] ✓ Estado actualizado correctamente en BD
+[2025-12-27 17:59:06] Iniciando proceso de envío de email...
+[2025-12-27 17:59:06] Verificando EmailDispatcher en: /home/u958859890/domains/prestamolider.com/public_html/system/api/../correos/EmailDispatcher.php
+[2025-12-27 17:59:06] ✓ EmailDispatcher encontrado, cargando...
+[2025-12-27 17:59:06] Obteniendo datos del cliente...
+[2025-12-27 17:59:06] ✓ Datos del cliente obtenidos: CANO ESPINDOLA ALVARO THOMAS <Thomec86@gmail.com>
+[2025-12-27 17:59:06] Creando instancia de EmailDispatcher...
+[2025-12-27 17:59:06] ✓ EmailDispatcher instanciado
+[2025-12-27 17:59:06] Enviando email de documentos aprobados...
+[2025-12-27 17:59:09] ✓ ✓ ✓ EMAIL ENVIADO EXITOSAMENTE ✓ ✓ ✓
+[2025-12-27 17:59:09] ========== RESPUESTA EXITOSA ==========
+[2026-01-04 16:12:51] ========== NUEVA PETICIÓN ==========
+[2026-01-04 16:12:51] ✓ Usuario autenticado: ID=15, Rol=admin
+[2026-01-04 16:12:51] Input recibido: {"chat_id":1320,"cliente_id":1104,"estado":"aprobado"}
+[2026-01-04 16:12:51] Datos parseados - Estado: aprobado, Cliente ID: 1104, Chat ID: 1320
+[2026-01-04 16:12:51] ✓ Cliente ID final: 1104
+[2026-01-04 16:12:51] Actualizando estado a 'aprobado' para cliente_id=1104
+[2026-01-04 16:12:51] Filas afectadas: 1
+[2026-01-04 16:12:51] ✓ Estado actualizado correctamente en BD
+[2026-01-04 16:12:51] ERROR al ejecutar notificación push: Failed opening required '/home/u958859890/domains/prestamolider.com/public_html/system/api/app/eventos/../../backend/connection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php')
+[2026-01-04 16:12:51] Iniciando proceso de envío de email...
+[2026-01-04 16:12:51] Verificando EmailDispatcher en: /home/u958859890/domains/prestamolider.com/public_html/system/api/../correos/EmailDispatcher.php
+[2026-01-04 16:12:51] ✓ EmailDispatcher encontrado, cargando...
+[2026-01-04 16:12:51] Obteniendo datos del cliente...
+[2026-01-04 16:12:51] ✓ Datos del cliente obtenidos: Fonceca Vilma Elizabeth <vilmaefonceca@hotmail.com>
+[2026-01-04 16:12:51] Creando instancia de EmailDispatcher...
+[2026-01-04 16:12:51] ✓ EmailDispatcher instanciado
+[2026-01-04 16:12:51] Enviando email de documentos aprobados...
+[2026-01-04 16:12:52] ✓ ✓ ✓ EMAIL ENVIADO EXITOSAMENTE ✓ ✓ ✓
+[2026-01-04 16:12:52] ========== RESPUESTA EXITOSA ==========
+[2026-01-05 14:05:34] ========== NUEVA PETICIÓN ==========
+[2026-01-05 14:05:34] ✓ Usuario autenticado: ID=2, Rol=asesor
+[2026-01-05 14:05:34] Input recibido: {"chat_id":null,"cliente_id":1345,"estado":"rechazado"}
+[2026-01-05 14:05:34] Datos parseados - Estado: rechazado, Cliente ID: 1345, Chat ID: 0
+[2026-01-05 14:05:34] ✓ Cliente ID final: 1345
+[2026-01-05 14:05:34] Actualizando estado a 'rechazado' para cliente_id=1345
+[2026-01-05 14:05:34] Filas afectadas: 1
+[2026-01-05 14:05:34] ✓ Estado actualizado correctamente en BD
+[2026-01-05 14:05:34] ERROR al ejecutar notificación push: Failed opening required '/home/u958859890/domains/prestamolider.com/public_html/system/api/app/eventos/../../backend/connection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php')
+[2026-01-05 14:05:34] Iniciando proceso de envío de email...
+[2026-01-05 14:05:34] Verificando EmailDispatcher en: /home/u958859890/domains/prestamolider.com/public_html/system/api/../correos/EmailDispatcher.php
+[2026-01-05 14:05:34] ✓ EmailDispatcher encontrado, cargando...
+[2026-01-05 14:05:34] Obteniendo datos del cliente...
+[2026-01-05 14:05:34] ✓ Datos del cliente obtenidos: CANO RENATA CATALINA <user58853749_1767357687@temp.com>
+[2026-01-05 14:05:34] Creando instancia de EmailDispatcher...
+[2026-01-05 14:05:34] ✓ EmailDispatcher instanciado
+[2026-01-05 14:05:34] Enviando email de documentos rechazados...
+[2026-01-05 14:05:35] ✗ Email NO fue enviado (revisar logs de EmailDispatcher)
+[2026-01-05 14:05:35] ========== RESPUESTA EXITOSA ==========
+[2026-01-05 14:22:29] ========== NUEVA PETICIÓN ==========
+[2026-01-05 14:22:29] ✓ Usuario autenticado: ID=2, Rol=asesor
+[2026-01-05 14:22:29] Input recibido: {"chat_id":1292,"cliente_id":815,"estado":"rechazado"}
+[2026-01-05 14:22:29] Datos parseados - Estado: rechazado, Cliente ID: 815, Chat ID: 1292
+[2026-01-05 14:22:29] ✓ Cliente ID final: 815
+[2026-01-05 14:22:29] Actualizando estado a 'rechazado' para cliente_id=815
+[2026-01-05 14:22:29] Filas afectadas: 1
+[2026-01-05 14:22:29] ✓ Estado actualizado correctamente en BD
+[2026-01-05 14:22:29] ERROR al ejecutar notificación push: Failed opening required '/home/u958859890/domains/prestamolider.com/public_html/system/api/app/eventos/../../backend/connection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php')
+[2026-01-05 14:22:29] Iniciando proceso de envío de email...
+[2026-01-05 14:22:29] Verificando EmailDispatcher en: /home/u958859890/domains/prestamolider.com/public_html/system/api/../correos/EmailDispatcher.php
+[2026-01-05 14:22:29] ✓ EmailDispatcher encontrado, cargando...
+[2026-01-05 14:22:29] Obteniendo datos del cliente...
+[2026-01-05 14:22:29] ✓ Datos del cliente obtenidos: CANO ESPINDOLA ALVARO THOMAS <Thomec86@gmail.com>
+[2026-01-05 14:22:29] Creando instancia de EmailDispatcher...
+[2026-01-05 14:22:29] ✓ EmailDispatcher instanciado
+[2026-01-05 14:22:29] Enviando email de documentos rechazados...
+[2026-01-05 14:22:32] ✓ ✓ ✓ EMAIL ENVIADO EXITOSAMENTE ✓ ✓ ✓
+[2026-01-05 14:22:32] ========== RESPUESTA EXITOSA ==========
+[2026-01-05 14:57:49] ========== NUEVA PETICIÓN ==========
+[2026-01-05 14:57:49] ✓ Usuario autenticado: ID=2, Rol=asesor
+[2026-01-05 14:57:49] Input recibido: {"chat_id":1292,"cliente_id":815,"estado":"aprobado"}
+[2026-01-05 14:57:49] Datos parseados - Estado: aprobado, Cliente ID: 815, Chat ID: 1292
+[2026-01-05 14:57:49] ✓ Cliente ID final: 815
+[2026-01-05 14:57:49] Actualizando estado a 'aprobado' para cliente_id=815
+[2026-01-05 14:57:49] Filas afectadas: 1
+[2026-01-05 14:57:49] ✓ Estado actualizado correctamente en BD
+[2026-01-05 14:57:49] ERROR al ejecutar notificación push: Failed opening required '/home/u958859890/domains/prestamolider.com/public_html/system/api/app/eventos/../../backend/connection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php')
+[2026-01-05 14:57:49] Iniciando proceso de envío de email...
+[2026-01-05 14:57:49] Verificando EmailDispatcher en: /home/u958859890/domains/prestamolider.com/public_html/system/api/../correos/EmailDispatcher.php
+[2026-01-05 14:57:49] ✓ EmailDispatcher encontrado, cargando...
+[2026-01-05 14:57:49] Obteniendo datos del cliente...
+[2026-01-05 14:57:49] ✓ Datos del cliente obtenidos: CANO ESPINDOLA ALVARO THOMAS <Thomec86@gmail.com>
+[2026-01-05 14:57:49] Creando instancia de EmailDispatcher...
+[2026-01-05 14:57:49] ✓ EmailDispatcher instanciado
+[2026-01-05 14:57:49] Enviando email de documentos aprobados...
+[2026-01-05 14:57:50] ✓ ✓ ✓ EMAIL ENVIADO EXITOSAMENTE ✓ ✓ ✓
+[2026-01-05 14:57:50] ========== RESPUESTA EXITOSA ==========

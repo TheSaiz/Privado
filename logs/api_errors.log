@@ -1,0 +1,8 @@
+[2026-01-06 00:50:44] Error creando solicitud - Tipo: empeno, Cliente ID: 815, Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'imagen_producto' in 'INSERT INTO'
+[2026-01-06 23:15:05] Error creando solicitud - Tipo: empeno, Cliente ID: 815, Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'imagen_producto' in 'INSERT INTO'
+[2026-01-06 23:18:01] Solicitud creada exitosamente - Tipo: empeno, ID: 1, Cliente: CANO ESPINDOLA ALVARO THOMAS 
+[2026-01-06 23:22:18] Solicitud creada exitosamente - Tipo: prendario, ID: 1, Cliente: CANO ESPINDOLA ALVARO THOMAS 
+[2026-01-06 23:55:29] Solicitud creada exitosamente - Tipo: prestamo, ID: 4, Cliente: CANO ESPINDOLA ALVARO THOMAS 
+[2026-01-07 15:03:52] Solicitud creada exitosamente - Tipo: prestamo, ID: 5, Cliente: Vilma elizabeth Fonceca
+[2026-01-07 15:18:19] Solicitud creada exitosamente - Tipo: empeno, ID: 2, Cliente: Vilma elizabeth Fonceca
+[2026-01-07 15:20:28] Solicitud creada exitosamente - Tipo: prendario, ID: 2, Cliente: Vilma elizabeth Fonceca

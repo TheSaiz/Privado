@@ -1,0 +1,48 @@
+[2026-01-07 14:23:23] ==================== VALIDACIÓN DOCUMENTACIÓN ====================
+[2026-01-07 14:23:23] Usuario ID: 815
+[2026-01-07 14:23:23] DNI: ✓ 58853749
+[2026-01-07 14:23:23] CUIT: ✓ 20417273876
+[2026-01-07 14:23:23] Nombre completo: ✓ CANO ESPINDOLA ALVARO THOMAS
+[2026-01-07 14:23:23] Código área: ✓ 011
+[2026-01-07 14:23:23] Teléfono: ✓ 1127390105
+[2026-01-07 14:23:23] DNI frente: ✓ uploads/clientes/815/doc_dni_frente_1767622985_2e7add24.jpg
+[2026-01-07 14:23:23] DNI dorso: ✓ uploads/clientes/815/doc_dni_dorso_1767622985_5c82dd5b.jpg
+[2026-01-07 14:23:23] Selfie DNI: ✓ uploads/clientes/815/doc_selfie_dni_1767622985_a8e8f375.jpg
+[2026-01-07 14:23:23] ---
+[2026-01-07 14:23:23] Todos completos: TRUE ✓
+[2026-01-07 14:23:23] ================================================================
+[2026-01-07 14:23:23] ✓ Base de datos actualizada: docs_completos=1, estado_validacion=activo
+[2026-01-07 14:23:23] 🎉 CUENTA ACTIVADA - Usuario 815 puede solicitar préstamos
+[2026-01-07 14:48:03] ==================== VALIDACIÓN DOCUMENTACIÓN ====================
+[2026-01-07 14:48:03] Usuario ID: 815
+[2026-01-07 14:48:03] DNI: ✓ 41727387
+[2026-01-07 14:48:03] CUIT: ✓ 20417273876
+[2026-01-07 14:48:03] Nombre completo: ✓ CANO ESPINDOLA ALVARO THOMAS
+[2026-01-07 14:48:03] Código área: ✓ 011
+[2026-01-07 14:48:03] Teléfono: ✓ 1127390105
+[2026-01-07 14:48:03] DNI frente: ✓ uploads/clientes/815/doc_dni_frente_1767622985_2e7add24.jpg
+[2026-01-07 14:48:03] DNI dorso: ✓ uploads/clientes/815/doc_dni_dorso_1767622985_5c82dd5b.jpg
+[2026-01-07 14:48:03] Selfie DNI: ✓ uploads/clientes/815/doc_selfie_dni_1767622985_a8e8f375.jpg
+[2026-01-07 14:48:03] ---
+[2026-01-07 14:48:03] Todos completos: TRUE ✓
+[2026-01-07 14:48:03] ================================================================
+[2026-01-07 14:48:03] ✓ Base de datos actualizada: docs_completos=1, estado_validacion=activo
+[2026-01-07 14:48:03] 🎉 CUENTA ACTIVADA - Usuario 815 puede solicitar préstamos
+[2026-01-07 15:00:57] ✓ DNI frente guardado: uploads/documentos/dni_frente_1629_1767798057.png
+[2026-01-07 15:00:57] ✓ DNI dorso guardado: uploads/documentos/dni_dorso_1629_1767798057.png
+[2026-01-07 15:00:57] ✓ Selfie con DNI guardado: uploads/documentos/selfie_dni_1629_1767798057.jpg
+[2026-01-07 15:00:57] ==================== VALIDACIÓN DOCUMENTACIÓN ====================
+[2026-01-07 15:00:57] Usuario ID: 1629
+[2026-01-07 15:00:57] DNI: ✓ 35840184
+[2026-01-07 15:00:57] CUIT: ✓ 27358401843
+[2026-01-07 15:00:57] Nombre completo: ✓ FONCECA VILMA ELIZABETH
+[2026-01-07 15:00:57] Código área: ✓ 376
+[2026-01-07 15:00:57] Teléfono: ✓ 4177398
+[2026-01-07 15:00:57] DNI frente: ✓ uploads/documentos/dni_frente_1629_1767798057.png
+[2026-01-07 15:00:57] DNI dorso: ✓ uploads/documentos/dni_dorso_1629_1767798057.png
+[2026-01-07 15:00:57] Selfie DNI: ✓ uploads/documentos/selfie_dni_1629_1767798057.jpg
+[2026-01-07 15:00:57] ---
+[2026-01-07 15:00:57] Todos completos: TRUE ✓
+[2026-01-07 15:00:57] ================================================================
+[2026-01-07 15:00:57] ✓ Base de datos actualizada: docs_completos=1, estado_validacion=activo
+[2026-01-07 15:00:57] 🎉 CUENTA ACTIVADA - Usuario 1629 puede solicitar préstamos

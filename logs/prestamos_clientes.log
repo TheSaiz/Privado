@@ -1,0 +1,1 @@
+[2026-01-03 16:14:59] EXCEPTION PDO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usuario_id' in 'WHERE'
